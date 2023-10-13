@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667630909 source:c:\users\asus\downloads\matriks\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1670906143 source:d:\university\semester 3\matriks dan vektor\tugas matvek\matriks\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
